@@ -1,15 +1,3 @@
-Alright. Same treatment as before.
-I’ll rewrite this README so it is:
-
-* **Industry-oriented learning journey**
-* **No course/platform names**
-* **Week structure exactly matches the image**
-* Professional, not academic fluff
-
-Below is the **clean rewritten README**. Replace your existing one with this.
-
----
-
 # Data Science & Big Data
 
 This repository documents my **learning journey in data science and big data**, with a focus on skills that are directly relevant to **industry, analytics roles, and large-scale data systems**.
@@ -63,11 +51,11 @@ data-science-big-data/
 │
 ├── Week-09_Mining_Big_Data_and_Data_Streams/
 │
-├── Week-10_Link_Analysis_and_Social_Network_Analysis/
+├── Week-10_Link_Analysis_and_Web_and_Social_Network_Analysis/
 │
-├── Week-11_R_Programming_and_Data_Visualization/
+├── Week-11_R_Programming_and_Data_Interfacing _and_Visualization/
 │
-├── Week-12_Advanced_Data_Analysis_Using_R/
+├── Week-12_Data_Analysis_and_Advanced_Analysis_Using_R/
 │
 └── README.md
 ```

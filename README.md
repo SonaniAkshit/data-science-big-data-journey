@@ -29,7 +29,7 @@ All content in this repository is organized **week-wise** following the official
 
 ```
 
-swayam-data-science-big-data/
+data-science-big-data/
 │
 ├── Week-01_Introduction/
 ├── Week-02_Probability_Statistics/
